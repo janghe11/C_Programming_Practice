@@ -14,11 +14,8 @@ C언어 프로그래밍 실습 C programming practice
 11. 윤년
 12. 미로찾기
 13. 공학용계산기
-<<<<<<< HEAD
-14. swap 함수 만들기
-15. strcpy 함수 만들기
-16. Tetris 만들기
-17. C언어로 ppt 만들기
-=======
 14. 스네이크바이트 게임
->>>>>>> a69b4163f48aeeaeba3c23446319ab162e8ba5ae
+15. swap 함수 만들기
+16. strcpy 함수 만들기
+17. Tetris 만들기
+18. C언어로 ppt 만들기
